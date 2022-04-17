@@ -1,0 +1,17 @@
+{
+  "name": "uptasknodejs",
+  "version": "1.0.0",
+  "description": "Proyecto UpTask con Node y MVC",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon ./index.js"
+  },
+  "author": "Leonel Gonzalez Vidales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
